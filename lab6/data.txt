@@ -1,0 +1,29 @@
+alenka
+chocolate
+g
+10.0
+5
+2
+Sat Oct 10 00:00:00 MSK 2020
+->aaa
+zefir
+kg
+20.0
+100
+3
+Sat Jan 01 00:00:00 MSK 2022
+->alenka
+chocolate
+g
+5.0
+5
+2
+Sat Oct 10 00:00:00 MSK 2020
+->bbb
+bbb
+kg
+10.0
+10
+1
+Sat Oct 10 00:00:00 MSK 2020
+->
